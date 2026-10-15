@@ -1,0 +1,6 @@
+{
+  "name": "CardVault AI — Business Card Scanner & Lead CRM",
+  "description": "High-accuracy mobile business card scanner with AI OCR, phone contacts sync, Salesforce CRM export, AES-256 local encryption, and biometric app lock.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
